@@ -38,8 +38,10 @@ Official source code, model checkpoints and training logs for paper "**Internali
 
 |   @ YTVIS-2022  |    ARI   |   ARIfg  |    mBO   |   mIoU   |
 |:---------------:|:--------:|:--------:|:--------:|:--------:|
-| RandSF.Q + xSSC | 39.5±0.2 | 56.6±1.9 | 34.7±0.2 | 34.0±0.3 |
-| SmoothSA + xSSC | 42.6±1.1 | 58.3±0.5 | 35.6±0.6 | 34.5±0.7 |
+| RandSF.Q | 37.9±1.3 | 51.8±1.2 | 32.2±1.8 | 31.5±1.8 |
+|   + xSSC | 39.5±0.2 | 56.6±1.9 | 34.7±0.2 | 34.0±0.3 |
+| SmoothSA | 42.0±0.6 | 59.0±2.1 | 36.0±0.5 | 34.9±0.6 |
+|   + xSSC | 42.6±1.1 | 58.3±0.5 | 35.6±0.6 | 34.5±0.7 |
 
 **Object recognition accuracy**:
 
