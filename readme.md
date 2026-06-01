@@ -2,7 +2,7 @@
 
 
 
-[![](https://img.shields.io/badge/arXiv-2606.tbd-red)](https://arxiv.org/abs/2606.tbd)<!-- [![](https://img.shields.io/badge/explain-poster-yellow)](https://www.python.org) -->
+[![](https://img.shields.io/badge/arXiv-2605.31508-red)](https://arxiv.org/abs/2605.31508)<!-- [![](https://img.shields.io/badge/explain-poster-yellow)](https://www.python.org) -->
 [![](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![](https://img.shields.io/badge/model-checkpoints-blue)](https://github.com/Genera1Z/xSSC#-model-checkpoints--training-logs)
 [![](https://img.shields.io/badge/training-logs-purple)](https://github.com/Genera1Z/xSSC#-model-checkpoints--training-logs)
@@ -128,7 +128,7 @@ If you find this repo useful, please cite our work.
 @article{zhao2026xssc,
   title={{Internalizing Temporal Consistency in Video Object-Centric Learning without Explicit Regularization}},
   author={Zhao, Rongzhen and Li, Zhiyuan and Kannala, Juho and Pajarinen, Joni},
-  journal={arXiv:2606.tbd},
+  journal={arXiv:2605.31508},
   year={2026}
 }
 ```
